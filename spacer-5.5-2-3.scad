@@ -1,5 +1,5 @@
 $fn = 600;
-$height = 8.5;
+$height = 5.5;
 $id = 2;
 $od = 3;
 $correction = 0.3;
